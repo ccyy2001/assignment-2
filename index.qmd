@@ -1,0 +1,31 @@
+---
+title: "RESUME"
+format:
+  html: 
+    includes:
+      in_header: style.css
+    theme: cosmo
+    fontsize: 1.1em
+    linestretch: 1.7
+image: profile.png
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: round
+---
+
+# Yue Cao
+
+![My Photo](images/1.jpg)
+
+## Summary
+
+My name is Cao Yue. I graduated from North China University of Technology. My work direction is mainly data analysis. I can skillfully manipulate data and train data. I am proficient in various programming languages, such as: c language, r language and python. , I can work bilingually fluently, using Chinese and English.
+
+[My email](mailto:ycao48@uic.edu)
+
+I don't have LinkedIn yet.
+
+[GitHub repository](https://github.com/ccyy2001/assignment-2)
+
+View my [resume](midterm-resume-Yue-Cao.html).
